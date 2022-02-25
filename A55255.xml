@@ -1,0 +1,681 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Poem on the history of Queen Hester ; An elegy on the death of the Lord Chief Justice Hales ; and other occasional poems</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55255</idno>
+            <idno type="STC">Wing P2696</idno>
+            <idno type="STC">ESTC R8471</idno>
+            <idno type="EEBO-CITATION">13736233</idno>
+            <idno type="OCLC">ocm 13736233</idno>
+            <idno type="VID">101623</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55255)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101623)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Poem on the history of Queen Hester ; An elegy on the death of the Lord Chief Justice Hales ; and other occasional poems</title>
+               </titleStmt>
+               <extent>[2], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Leech ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Probable date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Esther, --  Queen of Persia --  Poetry.</term>
+               <term>Hale, Matthew, --  Sir, 1609-1676 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101623:1" rendition="simple:additions"/>
+            <p>A POEM ON THE HISTORY OF Queen Heſther, AN ELEGY ON THE DEATH OF THE Lord Chief Juſtice HALES, And other Occaſional POEMS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Leech,</hi> at the <hi>Crown</hi> in <hi>Cornhill.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb facs="tcp:101623:2"/>
+            <pb n="1" facs="tcp:101623:2"/>
+            <head>OCCASIONAL POEMS.</head>
+            <div type="poem">
+               <head>A Poem on the Hiſtory of Queen <hi>Heſther.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>VAſti</hi> Deceas'd, the Beauties do convene,</l>
+                  <l>Each o'th' fair Rivals hoping to be Queen;</l>
+                  <l>
+                     <hi>Ahaſuerus,</hi> as his Peers do move,</l>
+                  <l>Moſt readily inclines to pleaſe his Love;</l>
+                  <l>
+                     <hi>Heſther</hi> ſucceeds. Neither mean Birth, nor State</l>
+                  <l>Prevents the Match, nor yet great <hi>Haman</hi>'s hate:</l>
+                  <l>The Nobler Virgins, and his Diadem</l>
+                  <l>Are void of Luſtre, as he views this Gem.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Haman</hi> at this time was moſt high in Court,</l>
+                  <l>None ſo in Favour, Splendor, Princely port,</l>
+                  <l>To him the People bow'd as he paſt by,</l>
+                  <l>The Admiration of each Heart and Eye.</l>
+                  <l>Poor <hi>Mordecai</hi> (mean-while) lay in the Gate</l>
+                  <l>In a forlorn and deſpicable State.</l>
+                  <l>From him the lofty Courtier look'd for more,</l>
+                  <l>Seeing ſuch Grandeur, and himſelf ſo Poor:</l>
+                  <l>The croſs-grain'd Captives knee would not conform;</l>
+                  <l>So his ſweet Calm ends in a dreadful Storm.</l>
+                  <l>(Ambition, croſt, like to the Sea doth rage,</l>
+                  <l>Reſtleſs, and boundleſs, nothing can aſſwage.)</l>
+                  <l>Slighted by one of the Captivity?</l>
+                  <l>For this the Nation, Root and Branch, ſhall dye.</l>
+                  <l>
+                     <hi>Caeſar</hi> is thus incenſt; There is a Sect</l>
+                  <l>Mixt with your people, who perverſly Act,</l>
+                  <l>Foes to your Laws and ſtabliſht Government,</l>
+                  <l>Let them be ſlain, no Treaſure there ſhall want.</l>
+                  <l>('Twas Death enough for <hi>Jacob</hi>'s Seed to be</l>
+                  <l>In a ſtrange Land, ſad by each Willow-tree</l>
+                  <l>
+                     <pb n="2" facs="tcp:101623:3"/>Condoling there in heavy mournful Songs</l>
+                  <l>Their own diſtreſs, their Nations Woes and Wrongs.)</l>
+                  <l>Men, Women, Children, Babes of a ſpan long,</l>
+                  <l>And tender Mothers, both the Old and Young,</l>
+                  <l>All muſt become one common Sacrifice<g ref="char:punc">▪</g>
+                  </l>
+                  <l>So <hi>Haman</hi> counſels, and the King complies.</l>
+                  <l>Unhappy Princes, 'tis too oft their Fate,</l>
+                  <l>Thus by ſurprize to ſhade the Ills they hate.</l>
+                  <l>Like cunning Fowlers corrupt Stateſmen walk,</l>
+                  <l>They ſeek themſelves, and make their Maſters ſtalk.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Mordecai</hi> warned Counter-plots the Plot,</l>
+                  <l>His Cauſe is good, the Enemies is not.</l>
+                  <l>He <hi>Caeſar</hi> ſaved: who ſo fit to bring</l>
+                  <l>Help to the Church, as he that ſav'd the King?</l>
+                  <l>He ſav'd his Life, and, in as true a ſence,</l>
+                  <l>No ſaves his Honour and his Innocence.</l>
+                  <l>(Though the Seal Royal be to the Decree,</l>
+                  <l>'Tis Loyal, to reſiſt Conſpiracy.)</l>
+                  <l>Cloathed in Sack-cloth he bewails the Harm,</l>
+                  <l>Then in the Queens Ear ſounds the ſad Alarm,</l>
+                  <l>Commands her to propitiate the King,</l>
+                  <l>(She and her People both are periſhing)</l>
+                  <l>Puts her in mind of her once low Degree,</l>
+                  <l>And how oblig'd by preſent Dignity.</l>
+               </lg>
+               <lg>
+                  <l>'Tis threatned Death, if <hi>Heſther</hi> do obey;</l>
+                  <l>'Tis worſe than Death, if the make no Eſſay.</l>
+                  <l>Diſtracting thoughts perplex her trembling breaſt;</l>
+                  <l>Her feeble Sex can ſcarce hard words digeſt;</l>
+                  <l>A frowning Look, and from a Royal Eye,</l>
+                  <l>Is wound enough to make weak Woman dye.</l>
+                  <l>Led by Example of the Ages paſt.</l>
+                  <l>She and her Maids do keep a privy Faſt.</l>
+                  <l>Fleſh ſuggeſts Danger, noble Faith ſaies, Nay,</l>
+                  <l>The Path of Danger is the ſafeſt Way.</l>
+                  <l>Thus Arm'd, ſhe boldly ventures, Fears not Death,</l>
+                  <l>Nor the King's wrath, nor <hi>Haman</hi>'s poys'nous breath.</l>
+               </lg>
+               <lg>
+                  <l>(How overcoming is a pleaſing Face</l>
+                  <l>When it is backed with the pow'r of Grace?)</l>
+                  <l>
+                     <pb n="3" facs="tcp:101623:3"/>Great, like her Courage, proves the good ſucceſs;</l>
+                  <l>Fury is turn'd into a kind Embrace.</l>
+                  <l>Another Edict now there is diſpatcht,</l>
+                  <l>The fatal Blow muſt fall where it was hatcht:</l>
+                  <l>(Moſt righteous Sentence, They who miſchief plot</l>
+                  <l>Still, in the cloſe, have miſchief for their lot.)</l>
+                  <l>
+                     <hi>Heſther</hi> is favour'd, <hi>Mordecai</hi> doth Riſe,</l>
+                  <l>Proſcribed <hi>Iſrael</hi> Lives, proud <hi>Haman</hi> Dies.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>To the KING.</hi> On His Recovery from Sickneſs, and being expected to D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> at <hi>Guild-hall</hi> the laſt Lord-Mayors-Day.</head>
+               <lg>
+                  <l>AFter dark, diſmal, gloomy Winters day</l>
+                  <l>Summer approaching, and bright <hi>Phoebus</hi> Ray,</l>
+                  <l>Each Vegetable buds, the Trees look green,</l>
+                  <l>Birds fall a-ſinging as the Sun is ſeen;</l>
+                  <l>So doth your welcom Royal Preſence bring,</l>
+                  <l>After Autumnal Grief, a Joyful Spring.</l>
+               </lg>
+               <lg>
+                  <l>The Fogs and Clouds (Great Sir) offending you,</l>
+                  <l>Caus'd an Eclipſe on your great City too;</l>
+                  <l>(Before Conſumptive) then ſhe lay ev'n dead,</l>
+                  <l>Dangers and Sickneſs threatning you the Head,</l>
+                  <l>Fainted and pined, felt by ſympathy</l>
+                  <l>Malignant <hi>Rome,</hi> and your leſs Malady.</l>
+               </lg>
+               <lg>
+                  <l>But now that your Majeſtick beams diſpence</l>
+                  <l>From your own Health a healing Influence.</l>
+                  <l>('Tis as a Reſurrection) ſhe Revives,</l>
+                  <l>Scorns to be Bed-rid, Lives, and Hopes, and Thrives.</l>
+                  <l>Verdure and Bloſſoms ſpring up in her Face,</l>
+                  <l>With'ring Time ceaſeth as you warm the place.</l>
+               </lg>
+               <lg>
+                  <l>This turns <hi>October</hi> into pleaſant <hi>May,</hi>
+                  </l>
+                  <l>And makes my Lord Mayors as a Jub'lee day:</l>
+                  <l>
+                     <pb n="4" facs="tcp:101623:4"/>Your Sick Lands healed with your Majeſty</l>
+                  <l>Would raiſe the Comfort into Extaſie.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Proel. for Parl. ſitting next day af<g ref="char:EOLhyphen"/>ter the Lord-Mayors-Day.</note>Auspicious Edict! Well it did portend,</l>
+                  <l>Counſel to Enter as the Feaſt to End.</l>
+                  <l>Kindneſs diſſolves! Kings that are Ir'n to Force</l>
+                  <l>Are won by Love to run their proper Courſe.</l>
+               </lg>
+            </div>
+            <div type="elegy">
+               <head>An <hi>ELEGY</hi> on the Death of the Lord Chief Juſtice <hi>Hales.</hi>
+               </head>
+               <lg>
+                  <l>BRing your Oblations, Poet Laureat Wits,</l>
+                  <l>Here is a Subject your beſt Art befits;</l>
+                  <l>From me a meaner Off'ring muſt ſuffice,</l>
+                  <l>Who want a Brain for ſuch a Sacrifice.</l>
+                  <l>But what needs an Encomium? Silly Verſe</l>
+                  <l>Does but debaſe this more deſerving Herſe.</l>
+                  <l>Is he Deceaſed? <hi>Hales</hi> the Learn'd, the Juſt?</l>
+                  <l>Once the great Wonder, now but common Duſt.</l>
+                  <l>What heart droops not at his departing hence?</l>
+                  <l>'Tis as the Sun-ſet, his Set Influence.</l>
+                  <l>Like that great Light, rejoycing in his Sphere,</l>
+                  <l>He ran his Circuit, profiting ev'ry where.</l>
+                  <l>With an Impartial hand turn'd Juſtice Scale,</l>
+                  <l>The poor man's Patron, helpt where Fees did fail.</l>
+                  <l>A Ruling great Example of the Gown,</l>
+                  <l>True to himſelf, his Country, and the Crown.</l>
+                  <l>But I offend! His own great worth expreſt</l>
+                  <l>And better proves, He knew moſt, and did beſt.</l>
+                  <l>(Enamel'd worth! As he was Learn'd and Juſt,</l>
+                  <l>High above praiſe, ſo low as very Duſt.)</l>
+               </lg>
+               <lg>
+                  <l>Hence petty Grief, Death here wounds a whole Nation,</l>
+                  <l>It calls for more than common Lamentation.</l>
+                  <l>Church and State put on black Mourn, friends Mourn all;</l>
+                  <l>The loſs is vaſt and Epidemical.</l>
+                  <l>This worthy Pillar being faln to ground,</l>
+                  <l>Where is another <hi>Atlas</hi> to be found?</l>
+                  <l>
+                     <pb n="5" facs="tcp:101623:4"/>Where's ſuch a Healer? Where ſo right an Eye,</l>
+                  <l>Sage to Diſcern, and faithful to Apply.</l>
+               </lg>
+               <lg>
+                  <l>You of the Long Robe in each Inns-a-Court,</l>
+                  <l>To <hi>Cooke</hi>'s great Name add <hi>Hales</hi> his good Report;</l>
+                  <l>May it prove Seminal of your Excellence,</l>
+                  <l>In propagating Law and Conſcience.</l>
+                  <l>A thouſand <hi>Phoenix</hi> (if it may be) riſe</l>
+                  <l>Out of his Aſhes, good like him and wiſe;</l>
+                  <l>To build up Juſtice, wrongs and vice aſſwage,</l>
+                  <l>And re-inforce the beggar'd Bankrupt Age.</l>
+                  <l>In whom ſurviving, It may yet be ſaid,</l>
+                  <l>
+                     <hi>The Oracle of Law ſtill Lives though Dead.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>The Epitaph.</head>
+                  <l>Ingenious Reader ſtay and drop a Tear,</l>
+                  <l>
+                     <hi>England</hi>'s great Darling and Defence lies here;</l>
+                  <l>Weep Widow'd Nation, weep till ſtreams do fall:</l>
+                  <l>Like a kind Bride, his Love was Conjugal.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To Sir <hi>George Jeffreys</hi> on his being Knighted.</head>
+               <lg>
+                  <l>NOt that you need this ſilly Offering,</l>
+                  <l>Nor would I ſeem to Rival with the King;</l>
+                  <l>'Twere bold and ſaucy, as abſurd and vain,</l>
+                  <l>After his Sword, to dare to praiſe again.</l>
+                  <l>I have my Laurel, if my Rhime expreſs</l>
+                  <l>A grateful ſenſe of your great Worthineſs.</l>
+                  <l>That Worth which made you high in hearts before,</l>
+                  <l>Now winning <hi>Caeſar</hi>'s makes you high much more.</l>
+               </lg>
+               <lg>
+                  <l>So early Wiſdom? Gray at ſuch an Age?</l>
+                  <l>Ripe in your Spring-time? Who did not preſage?</l>
+                  <l>Arms to the Gown give place, ſuch Cumbates ceaſe,</l>
+                  <l>The Learn'd in Honour much importeth Peace.</l>
+                  <l>
+                     <pb n="6" facs="tcp:101623:5"/>No Battels but thoſe bloodleſs at the Bar,</l>
+                  <l>Where wiſe men Claſh, as if 'twere time of War,</l>
+                  <l>With Brandiſht Tongues, like Weapons in the Field,</l>
+                  <l>Each fierce for Conqueſt as with Sword and Shield.</l>
+                  <l>Were Trophies proper in this Civil ſence,</l>
+                  <l>Triump confer'd on Wit and Eloquence,</l>
+                  <l>You might reſemble <hi>Caeſar</hi>'s ſelf of <hi>Rome,</hi>
+                  </l>
+                  <l>And boaſt, as he, you come and overcome.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To Sir <hi>Thomas Fitch</hi> on his good Fortune and Publick Works.</head>
+               <lg>
+                  <l>SO we in Hiſtory behold</l>
+                  <l>Brave Men and their brave Deeds Inroll'd,</l>
+                  <l>As here preſented to our view,</l>
+                  <l>The Pourtrait of your Art and you.</l>
+                  <l>Worth that's deriv'd from Anceſtors</l>
+                  <l>Is not ſo truly and ſo nobly ours,</l>
+                  <l>As that which is like yours acquir'd,</l>
+                  <l>This merits to be moſt admir'd.</l>
+               </lg>
+               <lg>
+                  <l>By wiſe contrivance you Inſtruct</l>
+                  <l>In building, and in Aqueduct:</l>
+                  <l>Where Fabricks are of chief Reſpect,</l>
+                  <l>Who will not gueſs you Architect?</l>
+                  <l>You Grace the City every where,</l>
+                  <l>By Land or Water <hi>Fitch</hi> is there:</l>
+                  <l>So in a ſenſe the Saying's true,</l>
+                  <l>You <hi>London</hi> raiſe, as it rais'd you.</l>
+               </lg>
+               <lg>
+                  <l>Weep Cloudy Suburbs, Widow'd Flood,</l>
+                  <l>Now Corn grows there where <hi>Troy</hi> once ſtood.</l>
+                  <l>The Palace glory is pull'd down</l>
+                  <l>Which did give luſter to the Crown.</l>
+                  <l>The Owners Honour, as the place,</l>
+                  <l>Grown Tenement like, mean and baſe.</l>
+                  <l>You, Sir, ſeem to condole <hi>White-hall,</hi>
+                  </l>
+                  <l>Which mourneth for this Place Fall;</l>
+               </lg>
+               <lg>
+                  <pb n="7" facs="tcp:101623:5"/>
+                  <l>And kindly in your Sphere ſupply</l>
+                  <l>That blemiſh of Nobility.</l>
+                  <l>As they do Raze, you Rear a Pile,</l>
+                  <l>Which both Convicts their practice vile</l>
+                  <l>And helps a little to remove</l>
+                  <l>The gloomy ſad Eclipſe above.</l>
+                  <l>May it ſo live a laſting Monument:</l>
+                  <l>You have by mind what they have by deſcent.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To the Right Honourable the Lord Mayor at the Anniverſary Entertainment in <hi>Guild-Hall.</hi>
+               </head>
+               <l>THE wiſe <hi>Apollo</hi> Laugheth once a year;</l>
+               <l>So the reſembling mortal Gods do here</l>
+               <l>Deign to be jolly, and Triumph together,</l>
+               <l>Over their Cares, and over <hi>Romes</hi> foul weather.</l>
+               <l>As you (much Honoured Sir) Aſcend the Chair,</l>
+               <l>The Heavens ſo kind and ſo Propitious are.</l>
+               <l>Redeem'd Religion happily ſupplies</l>
+               <l>Freſh Comfort to your former ſolemn Joyes.</l>
+               <l>Let Popery daſht ſound ſweeter in your Ear</l>
+               <l>Than the ſweet pleaſing melody you hear.</l>
+               <l>And Hearts as with good Wine be chear'd and warm'd</l>
+               <l>With the good news His Majeſty not harm'd;</l>
+               <l>But this ought to your Joyes Exceſs,</l>
+               <l>His Martyr'd Friend falls by the mercileſs.</l>
+               <l>Now <hi>Exit Babylon's</hi> Tranſubſtantiation,</l>
+               <l>Infernal Plots and Hell Aſſaſſination;</l>
+               <l>Thoſe <hi>Egypt</hi> Frogs no more Infeſt or Croak</l>
+               <l>Within the ſhadow of the Royal Oak.</l>
+               <l>(Avant Prodigious, Protean, Papal-State.)</l>
+               <l>Avant the curſt <hi>Raviliack</hi> Tranſmigrate.</l>
+               <l>The noiſe of Blood, The noiſe of Bankrupts ceaſe,</l>
+               <l>The Nations Wealth, the Nations Fame increaſe.</l>
+               <l>This ſo bright dawning Providential Ray</l>
+               <l>Sweetly preſageth Sun-ſhine <hi>Halcyon</hi> day.</l>
+               <l>And you my Lord, within your Lower Sphere</l>
+               <l>Are a good Omen. Happy be your year.</l>
+            </div>
+            <div type="poem">
+               <pb n="8" facs="tcp:101623:6"/>
+               <head>On Sir <hi>Edmundbury Godfrey.</hi>
+               </head>
+               <l>S<g ref="char:V">Ʋ</g>ch is Man's Life and Fickle ſtate,</l>
+               <l>Conſum'd with Care, expos'd to Hate,</l>
+               <l>Rent by variety of Fate,</l>
+               <l>(At moſt but of a moments Date)</l>
+               <l>So here in this great Herſe we ſee,</l>
+               <l>The beſt of Mortals, what they be.</l>
+               <l>The wiſe and good worſt harms moleſt,</l>
+               <l>The more of worth, the leſs of reſt.</l>
+               <l>As in a Storm the Cedars fall,</l>
+               <l>And Shrubs ſurvive their Funeral.</l>
+            </div>
+            <div type="poem">
+               <head>To Sir <hi>J. L.</hi> on his noble Entertainment at his going out Sheriff.</head>
+               <lg>
+                  <l>SO in your Bounty you appear</l>
+                  <l>Not ſeen but in your ſumptuous Cheer:</l>
+                  <l>As Modeſty hid in a Cloud</l>
+                  <l>The Generous Sun doth needy Mortals good.</l>
+               </lg>
+               <lg>
+                  <l>The well fraught Diſhes left behind</l>
+                  <l>Impreſſions of your Noble Mind;</l>
+                  <l>What needed further Eloquence,</l>
+                  <l>Your welcom ſuch by way of Influence.</l>
+               </lg>
+               <lg>
+                  <l>Wine Bottles Volly-wiſe did fly,</l>
+                  <l>Meſs upon Meſs two Stories high;</l>
+                  <l>No Counter Scuffle in the Rear,</l>
+                  <l>That plague of Mock Feaſts plenty baniſht here.</l>
+               </lg>
+               <lg>
+                  <l>If ſo Benigne where only ſate</l>
+                  <l>Poor Livery-men o'th' Loweſt Rate,</l>
+                  <l>What were you to the upper Gueſt,</l>
+                  <l>Who added Luſter to your ſplendid Feaſt.</l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:101623:6"/>
+                  <l>May the kind Coſt you did impart</l>
+                  <l>Bring a rich Income to your Heart;</l>
+                  <l>Not of that Treaſure which is told,</l>
+                  <l>But Wealth more worthy your purſuit than Gold.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To a fair Lady at a Feſtival Dinner at Sir <hi>William Prichards.</hi>
+               </head>
+               <l>THanks to the Sheriff for his free Feaſt,</l>
+               <l>And welcom to ſo mean a Gueſt;</l>
+               <l>Good Wine, good Muſick, and good Chear</l>
+               <l>Did nobly act, each in their Sphere.</l>
+               <l>The untoucht Diſhes in retreat</l>
+               <l>Sounded his Praiſe, and all Compleat.</l>
+               <l>But, Madam, much more thanks to you,</l>
+               <l>Who did both Feaſt and heal me too;</l>
+               <l>Your Beauty was that delicate Meſs,</l>
+               <l>Which as it mov'd did quell Exceſs.</l>
+               <l>How could I greedily purſue</l>
+               <l>The groſſer Cates beholding you?</l>
+               <l>How could I but ev'n pamper ſenſe</l>
+               <l>Once taſting that rare Influence?</l>
+               <l>Your Sun-ſhine made me blith and Jolly,</l>
+               <l>Who came in Dead in Melancholy.</l>
+               <l>My Ice did Thaw, my Clouds did Fly,</l>
+               <l>My tongue grew looſe which grief did tye.</l>
+               <l>If your more diſtant caſual heat</l>
+               <l>Could make dull pulſe ſo warmly beat,</l>
+               <l>How high and hot had been my Flame</l>
+               <l>Had thoſe beams come from Love and Aim?</l>
+               <l>Thus freed, thus fetter'd by your Eye;</l>
+               <l>Your Captive, yours at Liberty.—</l>
+            </div>
+            <div type="poem">
+               <pb n="10" facs="tcp:101623:7"/>
+               <head>
+                  <hi>To a Fair Lady unknown.</hi> On a Kiſs of her Shoe in the Shoe-makers Hand.</head>
+               <l>MAdam, though your Rare Beauty be</l>
+               <l>Magnetick, and ſo work on me:</l>
+               <l>Yet dare I not aſpire ſo high</l>
+               <l>As to draw near your daunting Eye;</l>
+               <l>Not favour'd with his happy Chance,</l>
+               <l>Who may unto your feet advancer:</l>
+               <l>I thus do with a lowly hears</l>
+               <l>Pay Homage to your ſhadowy part.</l>
+               <l>No Idol you are made by this,</l>
+               <l>Were <hi>Romes</hi> but ſuch, who would not Kiſs?</l>
+               <l>The Income there is moſt unkind,</l>
+               <l>Both to be baſe, and to be blind:</l>
+               <l>But here (methinks) as I do bow</l>
+               <l>I grow more Man and Chriſtian too.</l>
+               <l>I Conquer the whole Hoſt off Folly</l>
+               <l>Encamped in my Melancholy.</l>
+               <l>If in a diſtant view there be</l>
+               <l>Such Pleaſure ſo to touch to ſee;</l>
+               <l>Thrice happy he who may aſcend</l>
+               <l>To your ſweet Lips, to your fair hand.</l>
+            </div>
+            <div type="poem">
+               <pb n="11" facs="tcp:101623:7"/>
+               <head>To a Fair Lady in a Throng, <hi>On a Stop upon</hi> London-Bridge.</head>
+               <lg>
+                  <l>IN my way I lately ſpied</l>
+                  <l>A Fair Nymph within a Crowd,</l>
+                  <l>She did ſhine like glittering <hi>Venus,</hi>
+                  </l>
+                  <l>Mantled with that homely Could.</l>
+               </lg>
+               <lg>
+                  <l>Darts did enter unreſiſted</l>
+                  <l>As ſhe glanced with her Eye,</l>
+                  <l>I was Captiv'd, I was pleaſed</l>
+                  <l>With the ſweet Captivity.</l>
+               </lg>
+               <lg>
+                  <l>Love enforcing, I thus vetur'd,</l>
+                  <l>Madam, If in Fleſh you be,</l>
+                  <l>Deign a ſmile on a poor Mortal,</l>
+                  <l>That may heal which woundeth me.</l>
+               </lg>
+               <lg>
+                  <l>Then I boldly did Embrace her,</l>
+                  <l>Favour'd with more near acceſs.</l>
+                  <l>While I held this noble Treaſure</l>
+                  <l>I both <hi>Indies</hi> did poſſeſs.</l>
+               </lg>
+               <lg>
+                  <l>But, alas, my ſhort Fruition!</l>
+                  <l>She ſoon vaniſh'd out of ſight,</l>
+                  <l>And my hopes and Joyes expired</l>
+                  <l>Like a ſhort-liv'd bliſs by Night.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="12" facs="tcp:101623:8"/>
+               <head>
+                  <hi>To a Fair Lady.</hi> On a Damask Roſe preſented to her.</head>
+               <lg>
+                  <l>NOt that I think you can need Ornament</l>
+                  <l>Or Sweetneſs, I this Trifle do preſent;</l>
+                  <l>Deign to accept it on the humbler Score</l>
+                  <l>Of a poor, mean, Thank-off'ring, and no more.</l>
+                  <l>As Pepper-corns are paid but to expreſs</l>
+                  <l>A Homage due, not their own Worthineſs.</l>
+               </lg>
+               <lg>
+                  <l>You grace Flower more than it doth you,</l>
+                  <l>Make it more lovely fair, and Fragrant too;</l>
+                  <l>Each Vegetable grows in excellence,</l>
+                  <l>As there is added your rare Influence.</l>
+                  <l>The Roſe it ſelf lies proſtrate at your feet,</l>
+                  <l>Set in your Boſome then ſmells much more ſweet.</l>
+               </lg>
+               <lg>
+                  <l>Yet let this thought poſſeſs your lowly mind,</l>
+                  <l>After your Spring an Autumn comes behind.</l>
+                  <l>This pretty Bud which (like your ſelf) to day</l>
+                  <l>Is in its prime, will wither and deday.</l>
+                  <l>If Roſes Beauty fade, and fade it muſt,</l>
+                  <l>The ſweeteſt Face muſt alſo end in Duſt,</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>On the Death of Mr. <hi>Tho. Edwards,</hi> a Young Accomptant in the Chamber of <hi>London,</hi> who Dyed as he was to have Married.</head>
+               <l>SUch as are Artiſts, and do aim at Bayes,</l>
+               <l>May their high Subjects in Heroicks praiſe:</l>
+               <l>Im my lower Sphere pay Ruder Verſe,</l>
+               <l>To this more mean, and more proportion'd, Herſe;</l>
+               <l>
+                  <pb n="13" facs="tcp:101623:8"/>But I do wrong his Worth; Was he not High?</l>
+               <l>Vertue as well as blood doth dignifie:</l>
+               <l>Toyl'd like the Bee, had learned of the Ant:</l>
+               <l>Laid up in Summer for the Winters Want.</l>
+               <l>A faithful Steward, an obliging Friend;</l>
+               <l>Good in Bad times, beſt at his Latter-end.</l>
+               <l>A great Example in his Age and Place,</l>
+               <l>Did much, and well, and in a little ſpace.</l>
+               <l>View'd by the out-ſide he appear'd ſo green</l>
+               <l>As if (as yet) in Non-age he had been;</l>
+               <l>But if conſulted in the grand Affairs</l>
+               <l>Of Camp, or City, then he ſpake Gray Hairs.</l>
+               <l>A world of Buſineſs paſſe through his hand,</l>
+               <l>Figures, like Men, did move at his Command.</l>
+               <l>Yet in the Chamber ſo well kept his heart;</l>
+               <l>He carefully ſecur'd the better part:</l>
+               <l>Witneſs his laſt Act; Then it may be gueſt</l>
+               <l>Sore was the Conflict in his youthful Breaſt;</l>
+               <l>Earth preſents Wedlock, Heaven forbids the Banes,</l>
+               <l>Life a fair Miſtreſs, Death Salvation gains.</l>
+               <l>Beauty doth Raviſh, Riches does the ſame,</l>
+               <l>(When two Fires meet, the greater is the Flame)</l>
+               <l>But vain their Charms, he eyes the future State,</l>
+               <l>Treads on this ſweet, and on the ſowre of Fate.</l>
+               <l>Farewel, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> now harbour'd in thy Reſt,</l>
+               <l>Crowned with Bliſs, and Singing with the Bleſt.</l>
+            </div>
+            <div type="poem">
+               <pb n="14" facs="tcp:101623:9"/>
+               <head>
+                  <hi>On a Loving Couple,</hi> Who died ſoon after one another, and Buried both in one Grave.</head>
+               <l>UNder Monumental Stone</l>
+               <l>Here lies two whom Love made one,</l>
+               <l>As in Wedlock Knot combin'd,</l>
+               <l>So in Nature, Heart, and Mind.</l>
+               <l>His Soul Mounting up to Bliſs,</l>
+               <l>Hers was Reſtleſs till with his;</l>
+               <l>To her Mate, deceas'd, ſo kind;</l>
+               <l>She would not, could not ſtay behind.</l>
+               <l>In this Spicy fragrant Bed</l>
+               <l>They do yet Embrace and Wed.</l>
+               <l>Even in their Duſt ſtill one,</l>
+               <l>Waiting Reſurrection.</l>
+            </div>
+            <div type="poem">
+               <head>In Praiſe of Bowling.</head>
+               <lg>
+                  <l>LEt the <hi>Dons</hi> of the Town</l>
+                  <l>In their Feſtivals drown</l>
+                  <l>Their Wits in Canary and Sherry,</l>
+                  <l>We cry Fly, we cry Rub,</l>
+                  <l>And kick at the Tub,</l>
+                  <l>No Fudler is half ſo merry.</l>
+               </lg>
+               <lg>
+                  <l>No Politick matters</l>
+                  <l>Breaks our Brains into ſhatters,</l>
+                  <l>Yet we aim at a petty Dominion:</l>
+                  <l>If we Bowl well, and gain,</l>
+                  <l>No King doth ſo Raign:</l>
+                  <l>We are Princes in our own Opinion.</l>
+               </lg>
+               <lg>
+                  <pb n="15" facs="tcp:101623:9"/>
+                  <l>Our Sport and Toyl wean us</l>
+                  <l>From minding of <hi>Venus:</hi>
+                  </l>
+                  <l>For Miſſes we are not at leiſure;</l>
+                  <l>All that ſee us may know</l>
+                  <l>That Delight is below</l>
+                  <l>Men taken up with ſo high Pleaſure.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
